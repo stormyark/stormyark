@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **Java**
-- 📫 How to reach me **Discord: stormy#0666**
+- 📫 &nbsp;You can reach me on Discord: **stormy#0666**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
