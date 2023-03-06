@@ -6,6 +6,11 @@
 - 🌱 &nbsp;I’m currently learning **Java**
 - 📫 &nbsp;You can reach me on Discord: **stormy#0666**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://discordapp.com/users/755535092910129172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mepablo#8515" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
