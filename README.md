@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mepablo&label=Profile%20views&color=0e75b6&style=flat" alt="mepablo" /> </p>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning **Java**
+- 🌱 &nbsp;I’m currently learning **Java & Javascript**
 - 📫 &nbsp;You can reach me on Discord: **stormyark**
 
 <h3 align="left">Connect with me:</h3>
