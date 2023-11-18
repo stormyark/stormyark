@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **Java & Javascript**
-- 📫 &nbsp;You can reach me on Discord: **stormyark**
+- 📫 &nbsp;You can reach me on Discord: **@stormyark**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
