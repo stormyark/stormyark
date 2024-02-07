@@ -1,22 +1,61 @@
-<h1 align="center">Hi there,<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm stormy</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mepablo&label=Profile%20views&color=0e75b6&style=flat" alt="mepablo" /> </p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+stormy!;" />
+</h3>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning **Java & Javascript**
-- 📫 &nbsp;You can reach me on Discord: **@stormyark**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://discordapp.com/users/755535092910129172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mepablo#8515" height="30" width="40" /></a>
+<div align="center">
+
+🌱 I’m currently learning **Java & Javascript**
+
+📫 You can reach me on Discord: **@stormyark**
+
+🔭 I’m currently working on something cool :wink:
+
+ </div>
+
+---
+
+<h3 
+    align="center"
+    style="font-weight: bold">
+    Languages
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,java,html,css">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,discord">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Design
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind">
+</div>
+
+---
+
+<h3 
+    align="center"
+    style="font-weight: bold">
+    Connect with me
+</h3>
+<p 
+    align="center">
+    <a href="http://discordapp.com/users/755535092910129172" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mepablo#8515" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
