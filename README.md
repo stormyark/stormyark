@@ -57,7 +57,7 @@
 </h3>
 <p 
     align="center">
-    <a href="http://discordapp.com/users/755535092910129172" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mepablo#8515" height="30" width="40" /></a>
+    <a href="http://discordapp.com/users/755535092910129172" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mepablo#8515"/></a>
 </p>
 
 ---
