@@ -50,18 +50,6 @@
 
 ---
 
-<h3 
-    align="center"
-    style="font-weight: bold">
-    Connect with me
-</h3>
-<p 
-    align="center">
-    <a href="http://discordapp.com/users/755535092910129172" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mepablo#8515"/></a>
-</p>
-
----
-
 <div align="center">
 <a href='https://stormyark.de' target='_blank'><b>my website<b></a>
 </div>
