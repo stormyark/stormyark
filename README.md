@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-<a href='https://stormyark.de' target='_blank'><b>my website<b></a>
+<a href='https://stormyark.de' target='_blank'><h3>my website</h3></a>
 </div>
