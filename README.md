@@ -12,7 +12,7 @@
 
 📫 You can reach me on Discord: **@stormyark**
 
-🔭 I’m currently working on something cool :wink:
+🔭 I'm currently working on something cool :wink:
 
  </div>
 
