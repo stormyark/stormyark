@@ -10,9 +10,9 @@
 
 🌱 I'm currently learning **Java & Javascript**
 
-📫 You can reach me on Discord: **@stormyark**
-
 🔭 I'm currently working on something cool :wink:
+
+📫 You can reach me on Discord: **@stormyark** or **contact@stormyark.de**
 
  </div>
 
