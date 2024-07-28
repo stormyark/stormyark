@@ -12,7 +12,7 @@
 
 🔭 I'm currently working on something cool :wink:
 
-📫 You can reach me on Discord: **@stormyark** or **contact@stormyark.de**
+📫 You can reach me via Mail: **contact@stormyark.de**
 
  </div>
 
