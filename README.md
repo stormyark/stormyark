@@ -47,9 +47,3 @@
     align="center">
     <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,css,obsidian">
 </div>
-
----
-
-<div align="center">
-<a href='https://stormyark.de' target='_blank'><b>my website<b></a>
-</div>
