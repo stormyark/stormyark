@@ -45,7 +45,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,css">
 </div>
 
 ---
