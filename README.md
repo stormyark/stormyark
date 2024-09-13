@@ -25,7 +25,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,java,html">
+    <img src="https://skillicons.dev/icons?i=html,js,java,c++">
 </div>
 
 <h3
