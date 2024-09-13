@@ -35,7 +35,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=debian,vscode,git,github,docker,discord,obsidian">
+    <img src="https://skillicons.dev/icons?i=debian,vscode,git,github,docker,discord">
 </div>
 
 <h3
@@ -45,7 +45,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,css">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,css,obsidian">
 </div>
 
 ---
