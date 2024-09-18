@@ -6,15 +6,10 @@
 
 ---
 
-<div align="center">
-
-🌱 I'm currently learning **JavaScript**
-
-🔭 I'm currently working on something cool :wink:
-
-📫 You can reach me via Mail: **contact@stormyark.de**
-
- </div>
+<div
+    align="center">
+    <img width="750px" src="./assets/profile.png">
+</div>
 
 ---
 
@@ -46,11 +41,6 @@
 <div
     align="center">
     <img src="https://skillicons.dev/icons?i=html,css,figma,tailwind,obsidian,photoshop">
-</div>
-
-<div
-    align="center">
-    <img width="650px" src="./assets/profile.png">
 </div>
 
 ---
