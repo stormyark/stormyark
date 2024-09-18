@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌱 I'm currently learning **Java & Javascript**
+🌱 I'm currently learning **JavaScript**
 
 🔭 I'm currently working on something cool :wink:
 
