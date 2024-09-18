@@ -26,21 +26,21 @@
 <h3
     align="center"
     style="font-weight: bold">
-    Tools
-</h3>
-<div
-    align="center">
-    <img src="https://skillicons.dev/icons?i=debian,vscode,github,docker,discord">
-</div>
-
-<h3
-    align="center"
-    style="font-weight: bold">
     Design
 </h3>
 <div
     align="center">
     <img src="https://skillicons.dev/icons?i=figma,tailwind,obsidian,photoshop">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=debian,vscode,github,docker,discord">
 </div>
 
 ---
