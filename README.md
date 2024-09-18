@@ -7,7 +7,7 @@
 <div
     align="center">
     <a href="https://stormyark.de/" target="_blank">
-    <img width="600px" src="./assets/profile.png">
+    <img width="550px" src="./assets/profile.png">
     </a>
 </div>
 
