@@ -47,3 +47,19 @@
     align="center">
     <img src="https://skillicons.dev/icons?i=html,css,figma,tailwind,obsidian,photoshop">
 </div>
+
+<div
+    align="center">
+    <img width="650px" src="./assets/profile.png">
+</div>
+
+---
+
+<div
+    align="center">
+    <a href="https://discord.com/users/527147599942385674" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/527147599942385674">
+    </a>
+</div>
+
+---
