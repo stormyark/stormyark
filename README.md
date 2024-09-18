@@ -8,7 +8,9 @@
 
 <div
     align="center">
+    <a href="https://stormyark.de/" target="_blank">
     <img width="750px" src="./assets/profile.png">
+    </a>
 </div>
 
 ---
@@ -20,7 +22,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=html, css, js">
+    <img src="https://skillicons.dev/icons?i=html,css,js">
 </div>
 
 <h3
