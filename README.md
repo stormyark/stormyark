@@ -13,11 +13,11 @@
 
 ---
 
-<h3 
+<h2 
     align="center"
     style="font-weight: bold">
     Languages
-</h3>
+</h2>
 <div
     align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js">
