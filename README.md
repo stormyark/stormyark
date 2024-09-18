@@ -20,7 +20,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=js,java,cpp">
+    <img src="https://skillicons.dev/icons?i=html, css, js">
 </div>
 
 <h3
@@ -30,7 +30,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=debian,vscode,github,git,docker,discord">
+    <img src="https://skillicons.dev/icons?i=debian,vscode,github,docker,discord">
 </div>
 
 <h3
@@ -40,7 +40,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,tailwind,obsidian,photoshop">
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,obsidian,photoshop">
 </div>
 
 ---
@@ -51,5 +51,3 @@
         <img src="https://lanyard.cnrad.dev/api/755535092910129172">
     </a>
 </div>
-
----
