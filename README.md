@@ -7,7 +7,7 @@
 <div
     align="center">
     <a href="https://stormyark.de/" target="_blank">
-    <img width="600px" src="./assets/profile.png">
+    <img width="550px" src="./assets/profile.png">
     </a>
 </div>
 
@@ -48,6 +48,6 @@
 <div
     align="center">
     <a href="https://discord.com/users/755535092910129172" target="_blank">
-        <img width="500px" src="https://lanyard.cnrad.dev/api/755535092910129172">
+        <img width="450px" src="https://lanyard.cnrad.dev/api/755535092910129172">
     </a>
 </div>
