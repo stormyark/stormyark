@@ -11,7 +11,7 @@
     </a>
 </div>
 
-
+---
 
 <h3 
     align="center"
@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=debian,vscode,github,docker,discord">
 </div>
 
-
+---
 
 <div
     align="center">
