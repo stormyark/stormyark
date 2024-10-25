@@ -43,8 +43,8 @@
     <img src="https://skillicons.dev/icons?i=debian,vscode,github,docker,discord">
 </div>
 
----
 <!--
+---
 <div
     align="center">
     <a href="https://discord.com/users/755535092910129172" target="_blank">
