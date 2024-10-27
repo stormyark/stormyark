@@ -7,7 +7,7 @@
 <div
     align="center">
     <a href="https://stormyark.de/" target="_blank">
-    <img width="550px" src="./assets/profile.png">
+    <img width="550px" border-radius="5px" src="./assets/profile.png">
     </a>
 </div>
 
@@ -19,8 +19,7 @@
     Languages
 </h3>
 <div
-    align="center"
-    border-radius="5px">
+    align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js">
 </div>
 
