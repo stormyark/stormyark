@@ -15,7 +15,7 @@
 
 <h3 
     align="center"
-    style="font-weight: bold">
+    font-weight="bold">
     Languages
 </h3>
 <div
