@@ -19,7 +19,8 @@
     Languages
 </h3>
 <div
-    align="center">
+    align="center"
+    border-radius="5px">
     <img src="https://skillicons.dev/icons?i=html,css,js">
 </div>
 
