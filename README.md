@@ -13,6 +13,16 @@
 
 ---
 
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=debian,arch,vscode,bash,github,docker,discord,git">
+</div>
+
 <h3 
     align="center"
     font-weight="bold">
@@ -21,16 +31,6 @@
 <div
     align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
-</div>
-
-<h3
-    align="center"
-    style="font-weight: bold">
-    Tools
-</h3>
-<div
-    align="center">
-    <img src="https://skillicons.dev/icons?i=debian,arch,vscode,bash,github,docker,discord">
 </div>
 
 <h3
