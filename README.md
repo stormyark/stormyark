@@ -20,7 +20,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=debian,arch,vscode,bash,github,docker,discord,git">
+    <img src="https://skillicons.dev/icons?i=linux,debian,arch,vscode,bash,github,docker,discord,git">
 </div>
 
 <h3 
