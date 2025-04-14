@@ -40,7 +40,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=arch,debian,vscode,bash,github,docker,discord">
+    <img src="https://skillicons.dev/icons?i=debian,arch,vscode,bash,github,docker,discord">
 </div>
 
 <!--
