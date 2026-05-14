@@ -30,7 +30,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java">
 </div>
 
 <h3
