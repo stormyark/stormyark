@@ -7,7 +7,7 @@
 <div
     align="center">
     <a href="https://stormyark.de/" target="_blank">
-    <img width="550px" border-radius="5px" src="./assets/profile.png">
+    <img width="600px" src="./assets/SYSTEM.png">
     </a>
 </div>
 
@@ -20,7 +20,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=linux,debian,arch,vscode,bash,github,docker,git">
+    <img src="https://skillicons.dev/icons?i=arch,vscode,bash,github">
 </div>
 
 <h3 
@@ -30,7 +30,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java">
+    <img src="https://skillicons.dev/icons?i=python,react,java">
 </div>
 
 <h3
@@ -40,7 +40,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,obsidian,photoshop">
+    <img src="https://skillicons.dev/icons?i=tailwind,obsidian">
 </div>
 
 
